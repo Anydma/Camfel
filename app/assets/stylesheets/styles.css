@@ -417,3 +417,7 @@ Show Information Pages
     margin-right: 0;
     font-weight: bold;
 }
+
+.freebutton {
+	position:absolute;
+}

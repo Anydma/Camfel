@@ -1,10 +1,5 @@
 /* global $ */
-$(function(){
-    $("#elementarylink").fadeIn(1000);
-});
-$(function(){
-    $("#highschoollink").fadeIn(1000);
-});
+
 
 function slide(){
  
