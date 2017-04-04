@@ -105,6 +105,7 @@ ELEMENTARY / HIGH SCHOOL PAGE BODY
   	height: 405px;
   	background-color: blue;
   	background-position: center;
+  	background-repeat: no-repeat;
 }
 
 #title {
@@ -122,10 +123,14 @@ ELEMENTARY / HIGH SCHOOL PAGE BODY
 	padding: 25px;
 }
 
+#presentation-summary-text {
+	font-size: 125%;
+}
+
 #other-assemblies-button {
     	text-align: right;
     	margin: 1.5px 0 0 0;
-    }
+}
 
 .img-responsive {
 	padding-top: 2.75%;
@@ -165,6 +170,10 @@ ELEMENTARY / HIGH SCHOOL PAGE BODY
     .btn.btn-primary {
 		background-color: #3899ec;
 		margin: 15px 0 0 10px;
+	}
+	
+	.pull-right {
+		text-align: center;
 	}
 }
 
