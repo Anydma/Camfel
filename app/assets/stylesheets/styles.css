@@ -118,6 +118,20 @@ p {
 	display: none;
 }
 
+<<<<<<< HEAD
+=======
+.md-size-text {
+	font-size: 18px;
+}
+
+.btn-margin-top {
+	margin-top: 150px;
+}
+
+.padding-top-bottom {
+	padding: 20px 0 10px 0;	
+}
+>>>>>>> d73a9afa775ab259084d9776726ddaaca86ad522
 
 
 
@@ -139,6 +153,20 @@ ELEMENTARY / HIGH SCHOOL PAGE BODY
   	height: 405px;
   	background-color: blue;
   	background-position: center;
+}
+
+.banner-text {
+	font-size: 30px;
+	position: absolute;
+	left: 20px;
+	bottom: 200px;
+	color:white;
+}
+.banner-title {
+	font-size: 40px;
+}
+.invisible {
+	display: none;
 }
 
 #title {
@@ -460,12 +488,13 @@ Show Information Pages
 .freebutton {
 	position: absolute;
 	top:2em;
-	left:1em;
+	left:-.7em;
 	-ms-transform: rotate(-30deg); /* IE 9 */
     -webkit-transform: rotate(-30deg); /* Chrome, Safari, Opera */
     transform: rotate(-30deg);
     background-color: red;
     padding: 10px;
+    color: white;
 }
  .panel-freebutton{
     background-image: none;
@@ -478,3 +507,6 @@ Show Information Pages
     background-image: none
 }
 
+.center-button{
+  margin: 0 auto;
+}
