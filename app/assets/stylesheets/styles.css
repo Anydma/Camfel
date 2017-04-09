@@ -1,4 +1,34 @@
 /*************************************************************************
+GENERAL CLASSES
+*************************************************************************/
+.md-size-text {
+	font-size: 18px;
+}
+
+.btn-margin-top {
+	margin-top: 15px;
+}
+
+.margin-top {
+	margin-top: 20px;
+}
+
+
+.padding-top-bottom {
+	padding: 20px 0 10px 0;	
+}
+
+.title-center {
+	text-align: center;
+}
+
+.font-fantasy {
+	font-family: fantasy;
+}
+
+
+
+/*************************************************************************
 NAV BAR
 *************************************************************************/
 .navbar .navbar-nav {
@@ -88,21 +118,7 @@ p {
 	display: none;
 }
 
-.md-size-text {
-	font-size: 18px;
-}
 
-.btn-margin-top {
-	margin-top: 15px;
-}
-
-.padding-top-bottom {
-	padding: 20px 0 10px 0;	
-}
-
-.margin-top {
-	margin-top: 20px;
-}
 
 
 
